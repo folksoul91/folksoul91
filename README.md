@@ -21,7 +21,7 @@ I have a background in chemistry/chemical engineering which helped me transition
 
 ### Below is my current Github Stats 📈
 
-[![Dane's GitHub stats](https://github-readme-stats.vercel.app/api?username=folksoul91)]
+![Dane's GitHub stats](https://github-readme-stats.vercel.app/api?username=folksoul91)
 
 ## Get in touch
 
